@@ -81,6 +81,4 @@ Engineered Python ETL pipelines processing 100K+ records, deployed a K-Means clu
 | 🗂️ **Smart Leave Management System** | Enterprise dual-role (employee/manager) leave workflow platform with RBAC | ASP.NET Core • Angular • SQL Server |
 | ❤️ **AI MedForecast** | Clinical heart-disease risk predictor, 85%+ accuracy with SHAP explainability | Python • Scikit-learn • SHAP |
 
-*(Add the GitHub links to each repo once pinned!)*
-
 
